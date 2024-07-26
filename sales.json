@@ -1,0 +1,42 @@
+[
+  {
+    "sale_id": 1,
+    "product_id": 1,
+    "amount": 100
+  },
+  {
+    "sale_id": 2,
+    "product_id": 1,
+    "amount": 200
+  },
+  {
+    "sale_id": 3,
+    "product_id": 2,
+    "amount": 500
+  },
+  {
+    "sale_id": 4,
+    "product_id": 2,
+    "amount": 600
+  },
+  {
+    "sale_id": 5,
+    "product_id": 3,
+    "amount": 500
+  },
+  {
+    "sale_id": 6,
+    "product_id": 3,
+    "amount": 600
+  },
+  {
+    "sale_id": 7,
+    "product_id": 4,
+    "amount": 400
+  },
+  {
+    "sale_id": 8,
+    "product_id": 4,
+    "amount": 600
+  }
+]
